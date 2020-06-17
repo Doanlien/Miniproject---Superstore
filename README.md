@@ -17,3 +17,7 @@ Câu 1. Với câu hỏi 1 thì mình cần 3 thông tin là lợi nhuận (prof
 Câu 2. để trả lời câu hỏi này mình cần đến các thông tin: lợi nhuận (profit), doanh thu (sale), tiểu bang (state) và thời gian(order_date). Dùng sql để lấy dữ thành bảng gồm cột: tỷ lệ lợi nhuận và tiểu bang Câu 2 mình dùng Tableau để visualization
 
 Câu 3. để có tỷ lệ trả lại của mỗi tiểu bang và theo từng danh mục cần các thông tin: danh mục đơn hàng, tiểu bang và đơn hoàn trả từ 2 bảng orders và returns. 2 bảng này có cột chung là cột order_Id. Dùng sql để lấy dữ liệu thành bảng có các cột: Tổng hóa đơn, tổng hóa đơn trả, tỷ lệ trả hàng = tổng hóa đơn trả/tổng hóa đơn, tiểu bang, danh mục. Dùng Taleau để visualization.
+Phần Visualization của câu 2 và câu 3 tại: https://public.tableau.com/profile/doan4431#!/vizhome/miniproject-superstore/Dashboard1
+
+Vì là người mới nên có thể mình làm vẫn chưa đúng nên rất mong nhận được sự góp ý từ người đọc.
+Feel free to comment!
